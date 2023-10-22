@@ -1,0 +1,21 @@
+.center{
+  display: grid;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#date{
+  width: 100%;
+}
+#btn{
+  background-color: rgb(9, 126, 252);
+  border-radius: 5px;
+  color: white;
+  border: white;
+  margin: 4px;
+  padding: 6px;
+  width: 50%;
+}
